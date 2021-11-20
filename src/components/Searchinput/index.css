@@ -1,0 +1,23 @@
+.app-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.input-text{
+    width: 80%;
+    height:50px;
+    border-width: 2px;
+    border-radius: 10px;
+    font-size: 20px;
+    border-color:black;
+}
+
+.user-container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: wrap;
+}
